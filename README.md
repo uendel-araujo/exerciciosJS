@@ -1,0 +1,1 @@
+Aqui encontra-se respostas geradas por mim para exercícios com códigos em JavaScript
